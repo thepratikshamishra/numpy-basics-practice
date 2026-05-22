@@ -64,9 +64,11 @@ jupyter notebook numpy_fundamentals.ipynb
 ## 🙋‍♀️ Author
 
 **Pratiksha Mishra**  
-[GitHub](https://github.com/thepratikshamishra)
+## 🙋‍♀️ Author
 
-[Linkedln](www.linkedin.com/in/the-pratiksha-mishra)
+**Pratiksha Mishra**  
+[![GitHub](https://img.shields.io/badge/GitHub-thepratikshamishra-181717?logo=github)](https://github.com/thepratikshamishra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratiksha%20Mishra-0077B5?logo=linkedin)](https://www.linkedin.com/in/the-pratiksha-mishra)
 ---
 
 ## ⭐ If you found this helpful, give it a star!
