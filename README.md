@@ -59,11 +59,7 @@ jupyter notebook numpy_fundamentals.ipynb
 - Anyone brushing up on NumPy fundamentals
 - Students following along with Python data science courses
 
----
-
-## 🙋‍♀️ Author
-
-**Pratiksha Mishra**  
+---  
 ## 🙋‍♀️ Author
 
 **Pratiksha Mishra**  
