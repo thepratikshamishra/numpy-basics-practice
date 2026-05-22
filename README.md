@@ -65,7 +65,7 @@ jupyter notebook numpy_fundamentals.ipynb
 
 **Pratiksha Mishra**  
 [GitHub](https://github.com/thepratikshamishra)
-
+[Linkedln](www.linkedin.com/in/the-pratiksha-mishra)
 ---
 
 ## ⭐ If you found this helpful, give it a star!
