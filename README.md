@@ -6,7 +6,7 @@ A beginner-friendly collection of Jupyter notebooks to learn and practice **NumP
 
 ## 📓 Notebook
 
-| File | Description |
+| File | Description |    
 |------|-------------|
 | `numpy_fundamentals.ipynb` | Core NumPy concepts with hands-on examples and exercises |
 
