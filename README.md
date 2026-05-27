@@ -4,7 +4,7 @@ A beginner-friendly collection of Jupyter notebooks to learn and practice **NumP
   
 ---
 
-## 📓 Notebook
+## 📓 Notebook  
 
 | File | Description |    
 |------|-------------|
