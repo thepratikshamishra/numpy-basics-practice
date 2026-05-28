@@ -43,7 +43,7 @@ cd numpy-basics-practice
 jupyter notebook numpy_fundamentals.ipynb
 ```
 
----
+---      
 
 ## 🛠 Tech Stack
 
