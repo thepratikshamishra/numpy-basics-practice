@@ -12,7 +12,7 @@ A beginner-friendly collection of Jupyter notebooks to learn and practice **NumP
 
 ---
 
-## 📌 Topics Covered
+## 📌 Topics Covered. 
 
 - Creating NumPy arrays (1D, 2D, 3D)
 - Array properties — `shape`, `ndim`, `dtype`, `size`
