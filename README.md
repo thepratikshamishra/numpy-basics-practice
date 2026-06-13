@@ -2,7 +2,7 @@
 
 A beginner-friendly collection of Jupyter notebooks to learn and practice **NumPy** — the foundational library for numerical computing in Python. 
   
----
+--- 
      
 ## 📓 Notebook      
   
