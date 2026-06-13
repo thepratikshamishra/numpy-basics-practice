@@ -11,7 +11,7 @@ A beginner-friendly collection of Jupyter notebooks to learn and practice **NumP
 | `numpy_fundamentals.ipynb` | Core NumPy concepts with hands-on examples and exercises |
 
 ---
-
+ 
 ## 📌 Topics Covered.  
 
 - Creating NumPy arrays (1D, 2D, 3D)
